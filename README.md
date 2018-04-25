@@ -2,7 +2,7 @@
 
 Run a docker container include hackazon, apache, mysql, and nodejs with express server
 
-This work is based on https://github.com/cmutzel/all-in-one-hackazon
+This work is based on https://github.com/bepsoccer/all-in-one-hackazon/tree/with-express-as-proxy
 
 # Instructions
 
